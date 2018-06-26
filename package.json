@@ -1,0 +1,24 @@
+{
+  "name": "react-google-maps",
+  "version": "1.0.0",
+  "description": "Reusable React Google Maps Component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prashant-andani/React-google-maps.git"
+  },
+  "keywords": [
+    "React",
+    "Google",
+    "Maps"
+  ],
+  "author": "Prashant Andani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prashant-andani/React-google-maps/issues"
+  },
+  "homepage": "https://github.com/prashant-andani/React-google-maps#readme"
+}
